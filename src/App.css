@@ -26,6 +26,10 @@ body{
   color: #fff;
 }
 
+.Navbar a:hover{
+  color: var(--movie-color);
+}
+
 .App {
   color: white;
   min-height: 100vh;
