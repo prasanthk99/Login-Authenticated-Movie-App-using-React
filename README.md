@@ -1,5 +1,5 @@
 ## Default Username and Password:
- Username: "testuser"
+ Username: "testuser",
  Password: "ruDWLeHr9K7ErsUS"
 
 # Getting Started with Create React App
