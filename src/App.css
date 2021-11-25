@@ -1,6 +1,7 @@
 :root{
   --body-color:#1F1D36;
   --movie-color:#3F3351;
+   --hover-color:#864879;
 }
 
 body{
@@ -27,7 +28,7 @@ body{
 }
 
 .Navbar a:hover{
-  color: var(--movie-color);
+  color: var(--hover-color);
 }
 
 .App {
@@ -167,6 +168,9 @@ p{
   color: #fff;
   font-size: 1.2rem;
   border-radius: 8px;
+}
+.bottom-btns button:hover{
+  color: var(--hover-color);
 }
 
 @media(max-width:650px){
